@@ -27,8 +27,8 @@
 
 # Installation
 <li>Clone the repository
-<li>navigate to the main directory
-<li>install any requirements(see requirements.txt)
+<li>Navigate to the main directory
+<li>Install any requirements(see requirements.txt)
 
 
 # Usage
@@ -38,11 +38,8 @@ python notepad.pyw
 
 # About-the-author
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaivardhan-bhola)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaivardhan-bhola-773944214)
-
 [![Twitter](https://img.shields.io/badge/BholaJaivardhan-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/BholaJaivardhan)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaivardhan.bhola@gmail.com)
 
 # Contribution
