@@ -26,9 +26,9 @@
 > Notepad application using Python
 
 # Installation
-Clone the repository
-navigate to the main directory
-install any requirements(see requirements.txt)
+<li>Clone the repository
+<li>navigate to the main directory
+<li>install any requirements(see requirements.txt)
 
 
 # Usage
