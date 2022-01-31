@@ -46,7 +46,7 @@ python notepad.pyw
 If you would like to contribute to this project reach out to me. Contact Information can be found below or by clicking on the 'Contact-Information' link provided in the Table of Contents.
 
 # Show-your-support
-Give a ⭐️ if this project helped you!
+Give a ⭐️ star if this project helped you!
 
 # License
 Copyright © 2022 [Jaivardhan Bhola](https://github.com/jaivardhan-bhola).<br />
